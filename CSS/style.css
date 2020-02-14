@@ -1,0 +1,21 @@
+body {
+  padding-top: 50px;
+  display: flex;
+  justify-content: center;
+}
+
+button {
+  color: #fff;
+  font-family: "Montserrat", sans-serif;
+  font-style: italic;
+  font-size: 18px;
+
+  font-weight: 400;
+  text-transform: uppercase;
+  background-color: #b30cc9;
+  border-radius: 3px;
+  padding: 10px 40px;
+  border: none;
+  cursor: pointer;
+  margin-right: 125px;
+}
